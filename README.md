@@ -1,3 +1,3 @@
 -  Hi, My name is Ionysos Hedblom
--  I’m a software engineer and computer enthusiast
 -  Specialized in Front-end Development with React and Javascript
+-  I also like to write software for the Back-end with Go and .NET
